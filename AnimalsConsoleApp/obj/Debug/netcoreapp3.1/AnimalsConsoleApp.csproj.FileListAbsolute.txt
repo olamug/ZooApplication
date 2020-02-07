@@ -1,0 +1,11 @@
+C:\Users\kuber\source\repos\ZooSimulator\AnimalsConsoleApp\bin\Debug\netcoreapp3.1\AnimalsConsoleApp.exe
+C:\Users\kuber\source\repos\ZooSimulator\AnimalsConsoleApp\bin\Debug\netcoreapp3.1\AnimalsConsoleApp.deps.json
+C:\Users\kuber\source\repos\ZooSimulator\AnimalsConsoleApp\bin\Debug\netcoreapp3.1\AnimalsConsoleApp.runtimeconfig.json
+C:\Users\kuber\source\repos\ZooSimulator\AnimalsConsoleApp\bin\Debug\netcoreapp3.1\AnimalsConsoleApp.runtimeconfig.dev.json
+C:\Users\kuber\source\repos\ZooSimulator\AnimalsConsoleApp\bin\Debug\netcoreapp3.1\AnimalsConsoleApp.dll
+C:\Users\kuber\source\repos\ZooSimulator\AnimalsConsoleApp\bin\Debug\netcoreapp3.1\AnimalsConsoleApp.pdb
+C:\Users\kuber\source\repos\ZooSimulator\AnimalsConsoleApp\obj\Debug\netcoreapp3.1\AnimalsConsoleApp.csprojAssemblyReference.cache
+C:\Users\kuber\source\repos\ZooSimulator\AnimalsConsoleApp\obj\Debug\netcoreapp3.1\AnimalsConsoleApp.AssemblyInfoInputs.cache
+C:\Users\kuber\source\repos\ZooSimulator\AnimalsConsoleApp\obj\Debug\netcoreapp3.1\AnimalsConsoleApp.AssemblyInfo.cs
+C:\Users\kuber\source\repos\ZooSimulator\AnimalsConsoleApp\obj\Debug\netcoreapp3.1\AnimalsConsoleApp.dll
+C:\Users\kuber\source\repos\ZooSimulator\AnimalsConsoleApp\obj\Debug\netcoreapp3.1\AnimalsConsoleApp.pdb

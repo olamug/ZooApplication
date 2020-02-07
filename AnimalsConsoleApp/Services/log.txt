@@ -1,0 +1,5 @@
+31.01.2020 17:11:13 - Kali age: 5
+31.01.2020 17:11:39 - Zaneta age: 6
+"07.02.2020 15:18:42 : AnimalsConsoleApp.Model.Worker ID 5c990a4e-b31c-482e-8830-0f9adb506c14\n""07.02.2020 15:19:09 : AnimalsConsoleApp.Model.Worker ID 1d36edb4-56c7-481d-a33f-630373b01c4f\n"07.02.2020 15:20:31 : AnimalsConsoleApp.Model.Worker ID f7f4e728-3de9-4df8-8feb-b5d21d9c63de
+07.02.2020 15:21:42 : AnimalsConsoleApp.Model.Elephant ID 7b17f884-a9dd-4b74-8598-aa345159cd16
+07.02.2020 15:22:20 : AnimalsConsoleApp.Model.Worker ID b201d216-c033-4f37-8913-5f7ff810fda6
